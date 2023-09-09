@@ -20,12 +20,11 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
    -----------------------------------------
   |<<<<<<<<<<<<<MENU PRINCIPAL>>>>>>>>>>>>>>|
    -----------------------------------------
-
   |-------------> 1 - Gestão dos Clientes
   |-------------> 2 - Gestão de Vendas de Livros
   |-------------> 3 - Gestão dos Livros
   |-------------> 4 - Gestão dos Utilizadores do Sistema
   |-------------> 5 - Menu Gestão dos Clientes
   |-------------> 6 - Menu Gestão de Vendas de Livros
-  |-------------> 7 - Sair do Programa
+  |-------------> 7 - Sair do Programa```
 
