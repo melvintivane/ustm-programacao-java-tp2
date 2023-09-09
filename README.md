@@ -16,7 +16,7 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
 
 4. Você verá o menu principal com as seguintes opções:
 
-   ```js
+   ```shell
      |<<<<<<<<<<<<<MENU PRINCIPAL>>>>>>>>>>>>>>|
 
      |-------------> 1 - Gestão dos Clientes
