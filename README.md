@@ -16,7 +16,7 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
 
 4. Você verá o menu principal com as seguintes opções:
 
-   ```shell
+   ```js
    -----------------------------------------
   |<<<<<<<<<<<<<MENU PRINCIPAL>>>>>>>>>>>>>>|
    -----------------------------------------
@@ -26,5 +26,6 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
   |-------------> 4 - Gestão dos Utilizadores do Sistema
   |-------------> 5 - Menu Gestão dos Clientes
   |-------------> 6 - Menu Gestão de Vendas de Livros
-  |-------------> 7 - Sair do Programa```
+  |-------------> 7 - Sair do Programa
+  ```
 
