@@ -26,5 +26,28 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
      |-------------> 5 - Menu Gestão dos Clientes
      |-------------> 6 - Menu Gestão de Vendas de Livros
      |-------------> 7 - Sair do Programa
-  ```
+
+5. Escolha uma das opções digitando o número correspondente e pressione Enter.
+
+6. Continue navegando pelo sistema, escolhendo as opções nos menus subsequentes.
+
+7. Para sair do programa, escolha a opção "Sair do Programa" no menu principal.
+
+## Funcionalidades
+- Gestão de Clientes: Inserir, alterar, remover, procurar e listar clientes.
+
+- Gestão de Vendas de Livros: Registrar vendas, alterar registros de vendas, remover registros de vendas, listar livros e procurar livros por ano ou título.
+
+- Gestão de Livros: Inserir, alterar e remover livros.
+
+- Gestão de Usuários do Sistema: Inserir, alterar e remover usuários do sistema.
+
+## Contribuição
+Sinta-se à vontade para contribuir com melhorias neste projeto. Basta criar um fork do repositório, fazer as alterações e enviar um pull request.
+
+## Autor
+Este projeto foi desenvolvido por [Melvin Tivane] e [Radek de Oliveira] como parte de um exercício de programação em Java.
+
+## Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
