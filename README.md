@@ -17,15 +17,14 @@ Este é um sistema de gerenciamento de livraria em Java, composto por várias cl
 4. Você verá o menu principal com as seguintes opções:
 
    ```js
-   -----------------------------------------
-  |<<<<<<<<<<<<<MENU PRINCIPAL>>>>>>>>>>>>>>|
-   -----------------------------------------
-  |-------------> 1 - Gestão dos Clientes
-  |-------------> 2 - Gestão de Vendas de Livros
-  |-------------> 3 - Gestão dos Livros
-  |-------------> 4 - Gestão dos Utilizadores do Sistema
-  |-------------> 5 - Menu Gestão dos Clientes
-  |-------------> 6 - Menu Gestão de Vendas de Livros
-  |-------------> 7 - Sair do Programa
+     |<<<<<<<<<<<<<MENU PRINCIPAL>>>>>>>>>>>>>>|
+
+     |-------------> 1 - Gestão dos Clientes
+     |-------------> 2 - Gestão de Vendas de Livros
+     |-------------> 3 - Gestão dos Livros
+     |-------------> 4 - Gestão dos Utilizadores do Sistema
+     |-------------> 5 - Menu Gestão dos Clientes
+     |-------------> 6 - Menu Gestão de Vendas de Livros
+     |-------------> 7 - Sair do Programa
   ```
 
